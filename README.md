@@ -32,3 +32,4 @@ The challenge was to build a simple profile card that displays an avatar, name, 
 ---
 
 ## Live Demo
+[Social Links Profile Demo](https://islammo7amed.github.io/SocialLinksProfile/)
