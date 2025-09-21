@@ -20,15 +20,15 @@ The challenge was to build a simple profile card that displays an avatar, name, 
 ---
 
 ## Project Structure
-
-```├── index.html
+```
+├── index.html
 ├── css
 │ ├── fonts.css
 │ └── main_style.css
 ├── assets
 │ ├── fonts
-│ └── images```
-
+│ └── images
+```
 ---
 
 ## Live Demo
