@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: hsl(0, 0%, 8%);
+	height: 100vh;
+	font-family: 'Inter';
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+main{
+	background-color: hsl(0, 0%, 20%);
+	width: 86%;
+	max-width: 400px;
+	border-radius: 16px;
+	padding: 1.5rem;
+}
+
+.avatar-container{
+	width: 100px;
+	height: 100px;
+	margin: 10px auto;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+
+h1{
+	color: hsl(0, 0%, 100%);
+	text-align: center;
+	margin-top: 25px;
+	font-size: 1.7rem;
+}
+
+address{
+	text-align: center;
+	font-style: normal;
+	color: hsl(75, 94%, 57%);
+	font-weight: 600;
+	margin-top: 9px;
+}
+
+p{
+	text-align: center;
+	margin-top: 27px;
+	font-size: 14px;
+	color: hsl(0, 0%,90%);
+}
+
+ul{
+	margin-top: 15px;
+	list-style-type: none;
+}
+
+li{
+	text-align: center;
+	margin-top: 12px;
+}
+
+li a{
+	width: 100%;
+	height: 100%;
+	text-decoration: none;
+	background-color: hsl(0, 0%, 12%);
+	border-radius: 8px;
+	color: white;
+	padding: 10px;
+	display: inline-block;
+	font-weight: 500;
+	cursor: url('../assets/images/hand.png'), auto;
+}
+
+a:hover{
+	background-color: hsl(75, 94%, 57%);
+	color: hsl(0, 0%, 8%);
+}
